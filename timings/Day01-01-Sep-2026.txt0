@@ -1,0 +1,45 @@
+Day 1
+
+learnt about detailed roadmap of devops
+
+it is total of 8 phases and 16 tools
+
+Phase 1: Foundation
+
+1.Linux
+2.Git
+
+Phase 2: Cloud Fundamentals (AWS)
+
+3. AWS Core services
+
+Phase 3: Containerisation & Orchestration
+
+4.Docker
+5.Kubernetes(Core+EKS)
+6.Helm(Kubernetes packaging)
+7.Argo CD
+
+Phase 4: Infrastructure as Code & Configuration Management
+
+8.Terraform
+9.Ansible
+
+Phase 5: CI/CD & DevOps Automation
+
+10.Gitlab and Jenkins
+
+Phase 6: Observability & Monitoring
+
+11.Datadog
+12.ELK Stack
+
+Phase 7: Messaging & Streaming
+
+13.Kafka/MSK/Confluent
+
+Phase 8: Security & Reliability
+
+14.SSL Certificates
+15.SRE
+16.Security tools
