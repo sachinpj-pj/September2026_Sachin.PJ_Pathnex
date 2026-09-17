@@ -1,0 +1,23 @@
+learnt about git and github
+also learnt about git commands:
+git clone
+git pull
+git branch
+git checkout
+git status
+git add
+git push
+git fetch 
+git switch
+git merge
+git diff
+git log
+git stash
+git revert
+git reset
+git remote -y
+git restore
+
+git stash, git stash list and git stash pop id
+
+workflow: Modify file-->git status-->git add . -->git commit -m "message"--> git push
