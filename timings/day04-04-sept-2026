@@ -1,0 +1,17 @@
+
+learnt about process management commands
+
+ps
+ps -ef
+ps -ef | grep nginx
+top ----- shows CPU, memory, running processors and load averages
+shortcuts--- shift+m for memory and shift+p for cpu
+kill command --- kill <PID>
+force kill ---- kill -9 <PID>, where 9 is the signal
+Pkill --- Pkill <process_name>
+
+Pgrep --- pgrep <process_name>
+
+du -h --- estimated file/dir size in human readable format
+df -h --- shpw disk space usage in human readable format
+

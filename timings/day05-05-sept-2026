@@ -1,0 +1,18 @@
+we learnt about how to connect ROOT user to Linux
+ssh -i absolute path@IPAddress
+Note: Permit key login and Public key authentication should be YES
+" also after that if its unable to connect, restart using "systemctl restart sshd"
+
+wheel command and telnet command
+Mount command --- scaling
+LSLBK
+uptime
+ifconfig
+curl
+wget
+Zombie process
+orphn process
+Daemon process
+netstat
+telnet
+
