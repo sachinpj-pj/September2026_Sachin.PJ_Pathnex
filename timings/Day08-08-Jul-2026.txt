@@ -1,0 +1,14 @@
+Today we learnt about AWS
+
+landing Zone and AWS control tower
+Landing Zone = The Foundation 🏗
+Control Tower = The Manager
+
+after that we learnt about AWS services
+AWS regions and availability zones
+AWS EC2 Instance (elastic cloud compute)
+AWS IAM (Identity access management)
+AWS VPC (Virtual cloud compute)
+AWS S3  (Simple storage service)
+AWS session manager
+
