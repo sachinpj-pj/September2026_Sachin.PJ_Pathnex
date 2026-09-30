@@ -1,0 +1,13 @@
+Argo CD is a tool that helps us put our application into Kubernetes automatically; we keep our code in Git, and Argo CD keeps checking that Git, and whenever we make any change, it automatically updates the application in Kubernetes without us doing anything manually ; in simple words, Git is like a notebook where we write what we want, and Kubernetes is like a machine that runs it, and Argo CD makes sure the machine always follows the notebook; in my setup, I first connected Git to my local system, then copied files to an EC2 server using SCP, and from there connected to the Kubernetes cluster where Argo CD is installed; Argo CD keeps comparing what we wrote in Git and what is actually running, and if something is different, it fixes it automatically ; it can also fix things if someone deletes something by mistake and can remove things that are no longer needed; compared to GitHub Actions, where we have to write scripts to deploy, Argo CD does deployment automatically without much scripting; overall, it makes deployment easy, automatic, and less error-prone, and gives us a clear view of what is happening in our system
+
+Heml for single app
+kubectl apply -f only single file
+argo CD for multiple applications
+
+CRD custom resource definition
+RBAC role based access control
+
+
+password not written in plain text, always written in base 64
+
+encoding and encryption
