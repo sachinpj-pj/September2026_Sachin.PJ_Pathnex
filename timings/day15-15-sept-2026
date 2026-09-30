@@ -1,0 +1,4 @@
+created Kubernetes cluster using terraform and started with hands-on
+how to add service like Ingress, namespaces, deployment, Replicas and stateful set to Kubernetes 
+also how to troubleshoot if pods are pending and how to increase the pods and make pods to running and many more
+
