@@ -1,4 +1,5 @@
 quick overview on K8S architecture
+
 then went on to K8S interview question like:
 what is Kubernetes, pods, nod, cluster, namespace, init container
 deployment, Replicaset, statefulSet, Daemon CronJob services and types of services, Ingress, etcd, KKubectl Kube-api service, control manager, scheduler kube-proxy and pod creation and many more
