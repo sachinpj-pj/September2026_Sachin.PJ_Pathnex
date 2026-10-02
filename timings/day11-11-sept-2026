@@ -1,0 +1,7 @@
+
+K8S is container orchestration 
+K8S architecture - Control plane/master node and worker node 
+components of Control plane and worker node
+Control plane: Cloud control manager, Etcd, Kube-api-server, Scheduler and controller manager
+Worker node: Kubectl, kube proxy, CRI and Pod
+also learnt about the workflow of the K8S

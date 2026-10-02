@@ -1,0 +1,9 @@
+
+started with quick overview about stateful and Daemon set 
+then jumped into Affinity and types:
+Nod affinity, pod affinity and pod anti-affinity
+affinity Rules:
+Required during execution Ignored during scheduling 
+Preferred during execution and Ignored during scheduling
+Topology, Taint, effects of Taint and Toleration
+Probes and types of Probes

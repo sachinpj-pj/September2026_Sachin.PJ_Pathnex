@@ -1,0 +1,10 @@
+Docker --> Container
+
+Docker file, how to write docker file
+how to convert the docker file to docker image
+
+that docker image is pushed to cloud, how other teams pull that Docker image and when we run that docker image a container is created and h 
+
+Docker Engine, Docker compose, Docker registry and Docker Swarm
+
+use cases of Docker and commonly used Docker commands
