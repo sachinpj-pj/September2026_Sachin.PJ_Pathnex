@@ -8,12 +8,10 @@
         name: nginx
         state: present
 
-
 #Docker
 # Docker Installation & First Container
 docker --version
 docker run ubuntu echo "Hello Pathnex"
-
 
 # Docker File
 FROM ubuntu:22.04
